@@ -97,7 +97,7 @@ Commercial,Commercial
 Change in biomass (%),Changement de la biomasse (%)
 Change in biomass (tonnes) ,Changement de la biomasse (tonnes)
 Commercial Biomass,Biomasse commerciale
-Commercial biomass (meats, tonnes),Biomasse commerciale (chair, tonnes)
+"Commercial biomass (meats, tonnes)","Biomasse commerciale (chair, tonnes)"
 Commercial biomass (metric tonnes),Biomasse commerciale (tonnes)
 Commercial Biomass Density ,Densités de la biomasse commerciale
 Commercial biomass density (metric tonnes/square kilometre), Densité de la biomasse commerciale\n(tonnes/kilomètre carré)
@@ -410,7 +410,7 @@ Range of Field, Gamme de Domain
 Rate,Taux
 Recruit,Recrues
 Recruit Biomass,Biomasse des recrues
-Recruit biomass (meats,tonnes), Biomasse des recrues (chair,tonnes)
+"Recruit biomass (meats,tonnes)", "Biomasse des recrues (chair,tonnes)"
 Recruit Growth Rate ,Taux de croissance des recrues
 Recruitment,Recrutement
 Recruitment deviations,des écarts de recrutement
