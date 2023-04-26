@@ -202,7 +202,7 @@ Frequency,Fréquence
 Full model, Modèle complet
 Full standardization,Normalisation complète
 Full standardization minus interactions,Normalisation complète mois les interactions
-Fully recruited,Entièrement recruté
+Fully recruited,Pleinement recrutée
 Fully recruited biomass estimate (metric tonnes),Biomasse pleinement recrutée (tonnes)
 Gear,Engin
 Geometric mean of hook and line CPUE (fish/set),Moyenne géométrique des CPUE à l’hameçon et à la ligne (poisson/ensemble)
@@ -289,7 +289,8 @@ Male,Mâle
 Male and female,Mâle et femelle
 Males,Mâles
 Management unit,Zone de gestion
-Management\nunit,Zone de\ngestion
+Management,gestion
+Unit,Zone de 
 Mar,mar
 March,mars
 Maritimes Region,Région des Maritimes
@@ -380,6 +381,7 @@ Percentage, Pourcentage
 Petrale Sole,plie de Californie
 PRD,DPR
 Pre-COSEWIC Review,Examen pré-COSEPAC
+Pre-recruit,Prérecrues
 Precision,Précision
 Prediction, Prédiction
 Predicted, Prédite
