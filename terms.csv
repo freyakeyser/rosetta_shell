@@ -32,6 +32,7 @@ Aurora Rockfish,sébaste aurore
 Average Annual Variability,Variabilité annuelle moyenne
 Average F,F moyen
 Average M,M moyen
+Average Recruit Weight (g) ,Pesanteur des recrues (g)
 Bank,Banque
 Base model,Modèle de base
 Basis,Fondament
@@ -83,6 +84,10 @@ Central and Arctic Region,Région du Centre et de l'Arctique
 Central Coast,Côte centrale
 Chilipepper,sébaste de Goode
 China Rockfish,sébaste à bandes jaunes
+Closed Area, Zone fermée
+Closed Area I, Zone fermée I
+Closed Area II, Zone fermée II
+Closure, Fermeture
 Coastwide,Ensemble de la côte
 Cod,morue
 Cod closure, Fermeture de la morue
@@ -204,6 +209,7 @@ Geometric mean of hook and line CPUE (fish/set),Moyenne géométrique des CPUE �
 Geometric mean of trawl CPUE (kg/hr),Moyenne géométrique des CPUE du chalut (kg/h)
 Georges Bank, Banque Georges
 Georges\nBank,Banc de\nGeorges
+Geostatistical,Géostatique
 German Bank,Banc German
 Geostatistical,Géostatique
 Giant Blobsculpin,chabot maculé
@@ -282,8 +288,8 @@ LRR,TEL
 Male,Mâle
 Male and female,Mâle et femelle
 Males,Mâles
-Management unit, Zone de gestion
-Management\nunit, Zone de\ngestion
+Management unit,Zone de gestion
+Management\nunit,Zone de\ngestion
 Mar,mar
 March,mars
 Maritimes Region,Région des Maritimes
