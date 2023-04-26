@@ -19,7 +19,6 @@ Ageing precision,Précision de al détermination de l'âge
 Alaska Skate,raie de l’Alaska
 Aleutian Skate,raie aléoutienne
 Annual mean weight,Poids moyen annuel
-and, et
 Apr,avr
 April,Avril
 Area,Zone
@@ -33,7 +32,6 @@ Aurora Rockfish,sébaste aurore
 Average Annual Variability,Variabilité annuelle moyenne
 Average F,F moyen
 Average M,M moyen
-Average Recruit Weight (g) ,Pesanteur des recrues (g)
 Bank,Banque
 Base model,Modèle de base
 Basis,Fondament
@@ -74,8 +72,8 @@ C O Sole,C O sole
 Cabezon,chabot marbré
 California Grenadier,grenadier de Californie
 Canary Rockfish,sébaste canari
-Canada, Canada
 Catch,Prise
+Catch potential (mt), Prises potentielles (tonnes)
 Catch rate (fish/effective skate),Taux de prise (poisson/raie réelle)
 Catchability,La capturabilité
 Cautious,Prudence
@@ -85,10 +83,6 @@ Central and Arctic Region,Région du Centre et de l'Arctique
 Central Coast,Côte centrale
 Chilipepper,sébaste de Goode
 China Rockfish,sébaste à bandes jaunes
-Closed Area, Zone fermée
-Closed Area I, Zone fermée I
-Closed Area II, Zone fermée II
-Closure, Fermeture
 Coastwide,Ensemble de la côte
 Cod,morue
 Cod closure, Fermeture de la morue
@@ -152,6 +146,8 @@ Dep, Prof
 Depth + SST, Profondeur + SMT
 Design based,Axé sur la conception
 Deviation from expected biomass in log space,Écart par rapport à la biomasse prévue dans l’espace de relevé
+Difference in biomass (mt), Différence de la biomasse (tonnes)
+Difference in catch potential (mt), Différence des prises\npotentielles (tonnes)
 DIM,MID
 Discarded,Rejetées
 Distance,Distance
@@ -181,9 +177,9 @@ Fall,Automne
 Family,Famille
 Feb,fev
 February,février
-Field, Domain
 Female,Femelle
 Females,Femelles
+Field, Domain
 fish,poisson
 fish/skate,poisson/raie
 Fisheries,Pêches
@@ -206,7 +202,6 @@ Fully recruited biomass estimate (metric tonnes),Biomasse pleinement recrutée (
 Gear,Engin
 Geometric mean of hook and line CPUE (fish/set),Moyenne géométrique des CPUE à l’hameçon et à la ligne (poisson/ensemble)
 Geometric mean of trawl CPUE (kg/hr),Moyenne géométrique des CPUE du chalut (kg/h)
-Geostatistical,Géostatique
 Georges Bank, Banque Georges
 Georges\nBank,Banc de\nGeorges
 German Bank,Banc German
@@ -248,7 +243,8 @@ In press,Sous presse
 Instantaneous natural mortality,Mortalité naturelle instantanée
 Integrated Fishery Management Plan,Plan de gestion intégrée des pêches
 Interactions,Interactions
-Intercept, Intercepter
+Intercept, Point d'intersection
+International Court of Justice (Hague) Line,Ligne de la cour internationale de justice (Hague)
 IPHC Report of Assessment and Research Activities,Rapport de la CIFP sur les activités d'évaluation et de recherche
 IPHC survey catch rate,Taux de capture du relevé IPHC
 Jan,jan
@@ -280,11 +276,14 @@ Low,Faible
 Lower,inférieure
 Lower bound,Limite inférieure
 Lower Reference Point, Point de Reférénce Limite 
+Limit Reference Point, Point de Reférénce Limite
 LRP,PRL
 LRR,TEL
 Male,Mâle
 Male and female,Mâle et femelle
 Males,Mâles
+Management unit, Zone de gestion
+Management\nunit, Zone de\ngestion
 Mar,mar
 March,mars
 Maritimes Region,Région des Maritimes
@@ -328,6 +327,7 @@ No,Non
 No Status,Sans statut
 None,Aucun
 Normal,Normale
+North, Nord
 North Pacific Spiny Dogfish,aiguillat commun du Pacifique Nord
 Northing,Ordonnée
 Not at Risk,Non en péril
@@ -341,7 +341,7 @@ Number of age-2 recruits,Nombre de recrues d’âge 2
 Number of hooks returned each year,Nombre d’hameçons récupérés chaque année
 Objective,Objectif
 Observed annual mean weight,Poids moyen annuel observé
-Occurrence Probability,Probabilité D'occurrence
+Occurrence Probability,Probabilité d'occurrence
 Oct,oct
 October,octobre
 OM,ME
@@ -385,19 +385,20 @@ Prediction (fixed effects only),Prédiction (effets fixes seulement)
 Primary age (years),Âge primaire (ans)
 Prince Rupert District,District de Prince Rupert
 Prior,valeur a priori
+Prior probability distribution,La distribution de la probabilité a priori
+Priors,valeurs a priori
 Principle Component Analysis, Analyse en composantes de principe
 Principle Component,Composant de principe
 PC, CP
 PCA, ACP
-Prior,valeur a priori
-Priors,valeurs a priori
-Prior probability distribution,La distribution de la probabilité a priori
 Probability,Probabilité
 Probability mature,Probabilité de maturité
 Projected spawning biomass in,Projection de la biomasse reproductrice en
 Projection: BC Albers (NAD 1983),Projection : BC Albers (NAD 1983)
 Proportion,Proportion
 Proportion aged,Proportion âgée de
+Proportional difference in biomass,Différence proportionelle de la biomasse 
+Proportional difference in catch potential,Différence proportionelle\ndes prises potentielles
 Prowfish,zaprora
 Puget Sound Rockfish,sébaste paradeur
 Pygmy Rockfish,sébaste pygmée
@@ -410,7 +411,7 @@ Range of Field, Gamme de Domain
 Rate,Taux
 Recruit,Recrues
 Recruit Biomass,Biomasse des recrues
-"Recruit biomass (meats,tonnes)", "Biomasse des recrues (chair,tonnes)"
+"Recruit biomass (meats,tonnes)","Biomasse des recrues (chair,tonnes)"
 Recruit Growth Rate ,Taux de croissance des recrues
 Recruitment,Recrutement
 Recruitment deviations,des écarts de recrutement
@@ -569,7 +570,7 @@ Upper Stock Reference, Point de Reférénce Supérieur
 USA,les États-Unis
 US, États-Unis
 U.S., États-Unis
-USR,PRS
+USR,RSS
 Uterine Eggs,Oeufs utérins
 Value,Valeur
 Vermilion Rockfish,sébaste vermillon
